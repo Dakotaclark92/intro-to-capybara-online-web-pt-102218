@@ -4,6 +4,7 @@ class Application < Sinatra::Base
   end
   
   post '/greet' do
-    ""
+    "Hello World"
+  end
 
 end
